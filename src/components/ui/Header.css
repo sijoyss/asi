@@ -1,0 +1,11 @@
+.navbar {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(to right, green, gray, white);
+}
+
+.drop {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(to right, green, gray, white);
+}
